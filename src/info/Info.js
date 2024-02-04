@@ -77,6 +77,7 @@ export const info = {
       "reactjs",
       "nodejs",
       "git",
+      "mysql",
       "tailwindcss",
     ],
     exposedTo: ["aws", "docker", "mongodb", "linux"],
