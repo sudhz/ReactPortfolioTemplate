@@ -109,6 +109,15 @@ export const info = {
         "Integrated with Shopify API for real-time product uploads",
       ],
     },
+    {
+      role: "Software Developer Intern",
+      company: "Dayforce",
+      achievements: [
+        "Completed training in Java, .NET, JS, TS, React, Angular, and PL/SQL",
+        "Developed a capstone project integrating React, .NET Core, and MS SQL Server",
+        "Currently enhancing Excelity ESS functionalities using Java Servlets and JSP",
+      ],
+    },
   ],
   hobbies: [
     {
