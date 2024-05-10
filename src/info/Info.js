@@ -47,9 +47,9 @@ export const info = {
       label: "blog",
     },
     {
-      link: "https://instagram.com/sudhz._",
-      icon: "fa fa-instagram",
-      label: "instagram",
+      link: "https://leetcode.com/u/sudhz/",
+      icon: "fa fa-code",
+      label: "leetcode",
     },
     {
       link: "https://github.com/sudhz",
