@@ -69,53 +69,53 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: "Hey, I'm Sudhanshu. I'm all about making tech work for people, not the other way around. With a CompSci degree from SRMIST under my belt, I've jumped into the world of coding, always looking for ways to simplify complex tech problems. My journey has been about more than just coding; it's been about connecting with others, understanding what they need, and delivering it in the simplest way possible. I thrive on teamwork and am always eager to learn and grow.",
+  bio: "Hey, I'm Sudhanshu, a Software Developer at Dayforce with a Computer Science degree from SRMIST. I'm passionate about making tech work for people, not the other way around. Whether I'm coding, collaborating with my team, or tackling complex problems, I'm always looking for ways to simplify and innovate. My journey in tech has taught me that understanding people is just as important as understanding code. I thrive on teamwork, love learning new things, and am committed to creating user-friendly solutions that make a real difference.",
   skills: {
     proficientWith: [
       "python",
+      "java",
       "typescript",
       "reactjs",
       "nodejs",
       "git",
-      "mysql",
+      "sql",
       "tailwindcss",
     ],
-    exposedTo: ["aws", "docker", "mongodb", "linux"],
+    exposedTo: ["kotlin", ".net", "c#", "aws", "docker", "linux"],
   },
   experiences: [
     {
-      role: "Research Intern",
-      company: "Samsung R&D Institute, Bangalore",
+      role: "Software Developer",
+      company: "Dayforce",
       achievements: [
-        "Led the team in converting the GSM Test Automation Framework from Tool Command Language (Tcl) to Python",
-        "Enhanced readability and modernized the framework",
-        "Leveraged Python for improved efficiency",
-      ],
-    },
-    {
-      role: "Remote Software Developer",
-      company: "Yanolja Co. Ltd., Seoul",
-      achievements: [
-        "Enhanced a React.js GUI tool with React Flow",
-        "Implemented BFS and cycle detection for dynamic node name suggestions",
-        "Collaborated in an agile team for timely feature delivery",
+        "Completed comprehensive technical training in Java, .NET, TypeScript, React.js, Angular, PL/SQL, and Oracle SQL DB, building a strong foundation in modern web and software development",
+        "Led a team of 10 developers in a capstone project, developing a full-stack course management system using ReactJS/MUI, .NET Core, and Microsoft SQL Server, featuring course browsing, purchasing, and content administration",
+        "Implemented an in-house one-click CAPTCHA solution for the Employee Self-Service (ESS) India product, utilizing Java for backend logic and Rust compiled to WebAssembly for frontend performance",
+        "Collaborated to identify and remediate 160 SQL injection vulnerabilities in the ESS Java codebase, and developed a release note upload/download project for the Operations Excellence team",
       ],
     },
     {
       role: "Remote Data Engineer",
       company: "Freelance Project via Upwork",
       achievements: [
-        "Developed a Python/Scrapy script for data extraction from bjs.com",
-        "Integrated with Shopify API for real-time product uploads",
+        "Engineered a high-performance Python/Scrapy web scraping script to efficiently extract product data from bjs.com and samsclub.com for an American client, leveraging REST APIs and bypassing JavaScript rendering. Implemented concurrent requests, enhancing data extraction speed by 300% compared to traditional sequential methods",
+        "Implemented custom CSV/JSON export functionality and integrated with Shopify's API to enable real-time product data uploads to client's e-commerce store during web scraping operations, streamlining product catalog management",
       ],
     },
     {
-      role: "Software Developer Intern",
-      company: "Dayforce",
+      role: "Remote Software Developer",
+      company: "Yanolja Co. Ltd.",
       achievements: [
-        "Completed training in Java, .NET, JS, TS, React, Angular, and PL/SQL",
-        "Developed a capstone project integrating React, .NET Core, and MS SQL Server",
-        "Currently enhancing Excelity ESS functionalities using Java Servlets and JSP",
+        "Refined a React.js GUI tool by devising and implementing a node naming feature using BFS and cycle detection in React Flow, enhancing the graph's functionality by allowing node names to be auto-suggested from a list of ancestor nodes",
+        "Accelerated feature delivery by collaborating in an agile team, contributing to a 15% improvement in project timelines",
+      ],
+    },
+    {
+      role: "Research Intern",
+      company: "Samsung R&D Institute",
+      achievements: [
+        "Led a team of 4 students in converting the GSM Test Automation Framework from Tool Command Language (Tcl) to Python, enhancing readability and modernizing the framework",
+        "Refactored and improved several test scripts and core framework components which cut down the codebase size by 25%",
       ],
     },
   ],
